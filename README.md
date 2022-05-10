@@ -1,6 +1,6 @@
-# flutter_again
+# MOVIE_APP
 
-A new Flutter project.
+A MOVIE Flutter project.
 
 ## Getting Started
 
